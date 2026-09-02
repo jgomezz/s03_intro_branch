@@ -9,5 +9,14 @@ public class OpeMat{
 
      }
 
+     public int resta(int a, int b){
+
+       int r = a - b ;
+    
+       return r;
+
+     }
+
+
 
 }
