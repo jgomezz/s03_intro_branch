@@ -3,7 +3,8 @@ public class OpeMat{
      // TO DO
      public int suma(int a, int b, int c){
 
-       int s = a + b + c ;
+       int temp = a + b ;
+       int s = temp + c ;
 
        return s;
 
