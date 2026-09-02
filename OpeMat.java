@@ -6,6 +6,8 @@ public class OpeMat{
        int temp = a + b ;
        int s = temp + c ;
 
+       System.out.println(s);
+
        return s;
 
      }
