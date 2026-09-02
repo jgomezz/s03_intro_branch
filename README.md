@@ -1,1 +1,1 @@
-# Este proyecto es una introduccion al uso de branch
+# Este proyecto es una introducción al uso de branch
