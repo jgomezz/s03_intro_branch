@@ -1,9 +1,9 @@
 public class OpeMat{
 
      // TO DO
-     public int suma(int a, int b){
+     public int suma(int a, int b, int c){
 
-       int s = a + b ;
+       int s = a + b + c ;
 
        return s;
 
